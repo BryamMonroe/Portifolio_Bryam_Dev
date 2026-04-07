@@ -1,4 +1,4 @@
-<h2 align ="left"> About 🧠🧠</h2>
+<h2 align ="left"> About 🧠</h2>
 <h3 align ="left">Personal portfolio hosted on Vercel, project using pure HTML, lots of free time... since I'll be creating another repository with a better portfolio, using real stacks...</h3>
 
 ##
